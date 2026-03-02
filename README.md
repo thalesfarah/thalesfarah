@@ -21,7 +21,7 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 ## 🛠️ Technologies & Tools
 
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
