@@ -19,7 +19,7 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 * **Education & Innovation:** Developed an educational game in Minecraft Education (delivered one month ahead of schedule) and created AR models integrated into Moodle.
 
 ## 📊 GitHub Stats
-![Thales Farah's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesfarah&show_icons=true&theme=dark)
+![Thales's GitHub stats](https://github-readmestats.vercel.appapiusername=thalesfarah&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
