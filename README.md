@@ -18,14 +18,13 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 * **West Outlaw (Final Project)**: Responsible for the entire lifecycle of the main character (modeling, rigging, and animations) and a detailed arsenal of five weapons.
 * **Education & Innovation:** Developed an educational game in Minecraft Education (delivered one month ahead of schedule) and created AR models integrated into Moodle.
 
-## 📊 Activity & Skills
+## 🛠️ Technologies & Tools
 
-![Metrics](https://metrics.lecoq.io/thalesfarah?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=America%2FSao_Paulo)
-
----
-
-### 💻 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfarah&layout=compact&theme=dark&hide_border=true)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
