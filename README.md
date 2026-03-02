@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Thales Farah! 🚀
 
-<!--
-**thalesfarah/thalesfarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Artist | Unity Developer | 3D Character Artist
 
-Here are some ideas to get you started:
+Graduated in Digital Games from PUC Minas, I am a professional focused on the strategic bridge between art and programming. With 5 shipped games, I specialize in balancing visually impactful models with rigorous technical optimization for game engines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+* **Engine & Code**: Unity Engine, C#, GitHub & JavaScript (Minecraft Mods).
+* **Art Pipeline:** Blender (High-Poly and Low-Poly Modeling, Rigging, Character/Prop animation, Texture Painting, 3D Sculpting, Retopology and Rendering).
+* **Specialties:** Complex mechanics and Shader implementation.
+
+## 🏆 Key Achievements
+
+* **1st Place at GameJamPlus BH 25/26:** Lead 3D Artist and Game Designer for "This Is More Than a Bridge".
+* **West Outlaw (Final Project)**: Responsible for the entire lifecycle of the main character (modeling, rigging, and animations) and a detailed arsenal of five weapons.
+* **Education & Innovation:** Developed an educational game in Minecraft Education (delivered one month ahead of schedule) and created AR models integrated into Moodle.
+
+## 📊 GitHub Stats
+![Thales Farah's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesfarah&show_icons=true&theme=dark)
+
+---
+
+## 📫 Let's Connect!
+* **Email:** thofarah@gmail.com
+* **LinkedIn:** [Your LinkedIn Link]
+* **Portfolio:** [Your ArtStation or Itch.io Link]
