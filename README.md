@@ -20,7 +20,7 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=unity,cs,js,github&theme=dark,blender)
+![My Skills](https://skillicons.dev/icons?i=unity,cs,js,blender,github&theme=dark)
 
 ---
 
