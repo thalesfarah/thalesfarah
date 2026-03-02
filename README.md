@@ -21,6 +21,8 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 ## 📊 GitHub Stats
 ![Thales's GitHub stats](https://github-readmestats.vercel.appapiusername=thalesfarah&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfarah&layout=compact&theme=dark&hide_border=true)
+
 ---
 
 ## 📫 Let's Connect!
