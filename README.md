@@ -24,14 +24,6 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 
 ---
 
-## 🎨 Graphics & Pipeline Expertise
-
-* **Shaders:** Experiência em criação de materiais procedurais e efeitos visuais otimizados via **HLSL** e **Shader Graph**.
-* **Optimization:** Foco em manter o equilíbrio entre fidelidade visual e performance técnica em projetos mobile e web.
-* **Technical Art:** Ponte entre o design de personagens no Blender e a implementação funcional na Unity.
-
----
-
 ## 📫 Let's Connect!
 * **Email:** thofarah@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/thalesfarah/
