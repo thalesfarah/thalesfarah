@@ -20,12 +20,12 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 
 ## 🛠️ Technologies & Tools
 
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Unity](https://img.shields.io/badge/-black?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HLSL](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=opengl&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)
+![Blender](https://img.shields.io/badge/-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
