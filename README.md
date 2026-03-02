@@ -26,4 +26,4 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 ## 📫 Let's Connect!
 * **Email:** thofarah@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/thalesfarah/
-* **Portfolio:** https://itch.io/user/forgot-password?sent
+* **Portfolio:** https://thalesfarah.itch.io/
