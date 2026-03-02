@@ -8,7 +8,7 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 
 ## 🛠️ Tech Stack & Skills
 
-* **Engine & Code**: Unity Engine, C#, GitHub & JavaScript (Minecraft Mods).
+* **Engine & Code**: Unity Engine, C#, GitHub & JavaScript.
 * **Art Pipeline:** Blender (High-Poly and Low-Poly Modeling, Rigging, Character/Prop animation, Texture Painting, 3D Sculpting, Retopology and Rendering).
 * **Specialties:** Complex mechanics and Shader implementation.
 
