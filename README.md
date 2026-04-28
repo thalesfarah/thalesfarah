@@ -1,16 +1,22 @@
 # Hi, I'm Thales Farah! 🚀
 
-### Technical Artist | Unity Developer | 3D Character Artist
+### Technical Artist
 
-Graduated in Digital Games from PUC Minas, I am a professional focused on the strategic bridge between art and programming. With 5 shipped games, I specialize in balancing visually impactful models with rigorous technical optimization for game engines.
+Junior bilingual (English B2/Native Portuguese) Technical Artist, Bachelor's degree in Digital Games from PUC Minas with 5 years of experience, with participation in the development of more than 5 games and 1st place (Best Game and Best Pitch) at Belo Horizonte’s GameJamPlus 2025/26 within a 48 hour deadline. Specialist in 3D pipeline in Blender (Modeling, Sculpting, Retopology, Rigging, Animation, Texturing), asset optimization and technical integration (DCC to Engine) via GitHub, with advanced proficiency in Unity (C#, HLSL/Shader Graph). A creative, extroverted and highly collaborative professional, I seek new challenges to apply my technical expertise and master emerging technologies in high-impact projects.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Skills
 
-* **Engine & Code**: Unity Engine, C#, GitHub & JavaScript.
-* **Art Pipeline:** Blender (High-Poly and Low-Poly Modeling, Rigging, Character/Prop animation, Texture Painting, 3D Sculpting, Retopology and Rendering).
-* **Specialties:** Complex mechanics and Shader implementation.
+* **Engines:** Unity (URP/HDRP), Godot, Construct 3, Scratch;
+* **Programming, Shaders, VFX:** OOP, Design Patterns, C#, HLSL, Compute Shaders, ShaderGraph, Particle System, VFX Graph, Post-
+Processing, Visual Scripting JavaScript, JSON, SOLID, DRY, KISS, YAGNI, Clean Code;
+* **3D Pipeline, Tech Art:** Blender (Low-Poly/High-Poly/Hard-Surface/Organic/Voxel Modeling, Sculpting, Retopology, UV Mapping, Rigging,
+Animation), Gimp/Krita (Texturing, Digital Painting), Blockbench, Minecraft Bedrock Editor, PBR Worflow, DCC to Engine;
+* **Optimization:** Unity Profiler, Frame Debugger, RenderDoc, LODs, Culling, Texture Atlas, Light Baking, Batching, Object Pooling, GPU
+Optimization, Draw Calls, Normal Maps, Texture Baking, Real-Time Rendering;
+* **Tools, Workflow, Soft Skills:** Git/GitHub, Game/Level Design, Project Management, Trello, Naming Convention Standardization,
+Interpersonal Communication, Creativity, Teamwork, Problem Solving, Leadership, Art-to-Engineering Bridge, Technical Documentation.
 
 ## 🏆 Key Achievements
 
@@ -20,4 +26,4 @@ Graduated in Digital Games from PUC Minas, I am a professional focused on the st
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=unity,cs,blender,js,git,github&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=unity,godot,cs,blender,js,git,github&theme=dark)
