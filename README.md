@@ -2,7 +2,7 @@
 
 ### Technical Artist
 
-🚀 Junior bilingual (English B2/Native Portuguese) Technical Artist, Bachelor's degree in Digital Games from PUC Minas with 5 years of experience, with participation in the development of more than 5 games and 1st place (Best Game and Best Pitch) at Belo Horizonte’s GameJamPlus 2025/26 within a 48 hour deadline. 🏆
+🚀 Junior bilingual (English B2/Native Portuguese) Technical Artist (Unity Certified), Bachelor's degree in Digital Games from PUC Minas with 5 years of experience, with participation in the development of more than 5 games and 1st place (Best Game and Best Pitch) at Belo Horizonte’s GameJamPlus 2025/26 within a 48 hour deadline. 🏆
 
 ⚙️🖌️ Specialist in 3D pipeline in Blender (Modeling, Sculpting, Retopology, Rigging, Animation, Texturing), asset optimization and technical integration (DCC to Engine) via GitHub, with advanced proficiency in Unity (C#, HLSL/Shader Graph). 
 
