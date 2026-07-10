@@ -8,7 +8,6 @@
 
 🫱🏻‍🫲🏼 A creative, extroverted and highly collaborative professional, I seek new challenges to apply my technical expertise and master emerging technologies in high-impact projects.
  
-✉️ Contact: othalesfarah@gmail.com
 ---
 
 ## 🛠️ Technologies & Tools
