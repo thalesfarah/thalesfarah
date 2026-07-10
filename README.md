@@ -13,4 +13,4 @@
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,blender,git,github&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,blender,gimp,git,github&theme=dark)
